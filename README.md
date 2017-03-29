@@ -44,8 +44,6 @@ Para usar certificados (jks) distintos a los puestos en el repositorio (/src/mai
 
 ```java
 /**
- * Clase que representa un servidor REST embebido localmente. (servicios REST
- * api)
  *
  * @author: Angel Céspedes Quiroz
  * @Skype: acq1305
